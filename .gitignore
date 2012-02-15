@@ -1,0 +1,8 @@
+/build
+
+*.1
+*.pch
+
+*~
+.project
+.DS_Store
